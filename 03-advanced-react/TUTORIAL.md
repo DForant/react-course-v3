@@ -52,7 +52,7 @@ const ErrorExample = () => {
 
   const handleClick = () => {
     count = count + 1;
-    console.log(count);
+    co
     // preserve value between renders
     // trigger re-render
   };
