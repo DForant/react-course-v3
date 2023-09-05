@@ -375,7 +375,7 @@ const handleClick = () => {
 const handleClick = () => {
   // setTimeout(() => {
   // console.log('clicked the button');
-  //   setValue(value + 1);
+  //   setValue(value + 1)  ;
   // }, 3000);
   setTimeout(() => {
     console.log('clicked the button');
