@@ -2865,7 +2865,7 @@ const MyComponent = React.memo(function MyComponent(props) {
 
 React.memo(Component) - returns memoized component
 
-#### Function "Gotcha"
+#### Function "G  otcha"
 
 - setup remove person function
 

@@ -1,4 +1,4 @@
-import Item from './Person';
+  import Item from './Person';
 import { memo } from 'react';
 const List = ({ people, removePerson }) => {
   return (
